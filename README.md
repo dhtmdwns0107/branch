@@ -12,4 +12,4 @@ merge시 갈등이 생기는 경우
 
 ### 이곳은 conflict 발생하는곳
 
-이건 neo 브랜치에서 수정한 내용
+이건 master브랜치에서 작업한 것(master)
